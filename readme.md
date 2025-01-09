@@ -1,6 +1,6 @@
 # SANVI_AI
 
-SANVI_AI is an innovative server platform designed for seamless collaboration and project development with the help of AI. You can create servers or groups for specific projects, invite collaborators, and interact in real-time using a built-in chat feature. Powered by the Gemini AI model, SOEN_AI enhances your productivity by providing tools like code generation, real-time collaboration, and seamless web integration. It's the perfect platform to build, code, and share projects with ease.
+SANVI_AI is an innovative server platform designed for seamless collaboration and project development with the help of AI. You can create servers or groups for specific projects, invite collaborators, and interact in real-time using a built-in chat feature. Powered by the Gemini AI model, SANVI_AI enhances your productivity by providing tools like code generation, real-time collaboration, and seamless web integration. It's the perfect platform to build, code, and share projects with ease.
 
 ## Features
 
