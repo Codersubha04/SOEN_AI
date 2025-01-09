@@ -1,6 +1,6 @@
-# SOEN_AI
+# SANVI_AI
 
-SOEN_AI is an innovative server platform designed for seamless collaboration and project development with the help of AI. You can create servers or groups for specific projects, invite collaborators, and interact in real-time using a built-in chat feature. Powered by the Gemini AI model, SOEN_AI enhances your productivity by providing tools like code generation, real-time collaboration, and seamless web integration. It's the perfect platform to build, code, and share projects with ease.
+SANVI_AI is an innovative server platform designed for seamless collaboration and project development with the help of AI. You can create servers or groups for specific projects, invite collaborators, and interact in real-time using a built-in chat feature. Powered by the Gemini AI model, SOEN_AI enhances your productivity by providing tools like code generation, real-time collaboration, and seamless web integration. It's the perfect platform to build, code, and share projects with ease.
 
 ## Features
 
@@ -32,10 +32,10 @@ SOEN_AI is an innovative server platform designed for seamless collaboration and
 
 ## Getting Started
 
-To get started with SOEN_AI, follow these steps:
+To get started with SANVI_AI, follow these steps:
 
 1. **Sign up for an Account**
-   - Create an account on SOEN_AI to start creating servers and inviting collaborators.
+   - Create an account on SANVI_AI to start creating servers and inviting collaborators.
 
 2. **Create a Server**
    - Click on "Create Server" from the dashboard to start a new project.
@@ -67,7 +67,7 @@ To set up SOEN_AI locally (if applicable), follow these steps:
 git clone https://github.com/Codersubha04/SOEN_AI.git 
 
 ### Step 2: Navigate the directory
-cd SOEN_AI
+cd SANVI_AI
 
 ### Step 3: Install Dependencies
 npm install
@@ -99,6 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
+- **Email**: mannasubhajit997@gmail.com
 - **GitHub**: [https://github.com/Codersubha04/SOEN_AI](https://github.com/Codersubha04/SOEN_AI)
 
